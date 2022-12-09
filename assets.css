@@ -1,0 +1,12 @@
+.Gundam {
+    text-transform:capitalize
+}
+.VoltesV {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.Aznable {
+    border-style: ridge;
+    border-color: magenta;
+    border-width: 7px;
+    filter:saturate(30%)
+}
